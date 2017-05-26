@@ -3,7 +3,7 @@ jetty start web project!
 
 # jetty-start 项目说明 #
 
-该项目是引来通过jetty启动web项目的，直接引入该依赖就行，当前版本为：1.0.1-SNAPSHOT
+该项目是用来通过jetty启动web项目的，直接引入该依赖就行，当前版本为：1.0.1-SNAPSHOT
 
 # 使用案例 #
 1.在项目中的pom.xml中引入该依赖
