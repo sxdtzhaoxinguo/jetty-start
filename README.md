@@ -27,7 +27,4 @@ public class BeautyStart {
 	
 }
 
-3.默认访问路径：http://localhost:8080/
-
-
-
+3.默认访问路径：http://localhost:8080
